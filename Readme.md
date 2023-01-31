@@ -11,6 +11,6 @@ Comandos:
 8. git push -U origin main: manda pro github.
 8.1  git push origin nome criado do checkout
 9. clear
-10. git add .: Evia todos os arquivos da pasta.
+10. git add .: Envia todos os arquivos da pasta.
 11.  git checkout -b "nome"
 12.git merge novo-botao
